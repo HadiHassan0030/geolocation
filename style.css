@@ -1,0 +1,11 @@
+#map {
+    height: 500px;
+}
+
+#address {
+    color: red;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
